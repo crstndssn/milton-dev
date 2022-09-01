@@ -1,0 +1,33 @@
+body {
+    background: #F8F4EB;
+    color: #73BC21;
+    font-family: 'Poppins', sans-serif;   
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+p {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.contenedor-negro {
+    background: #000;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 1rem;
+}
+
+.cards-test {
+    text-align: center;
+    width: 100%;
+    border: 2px solid #000;
+}
+
